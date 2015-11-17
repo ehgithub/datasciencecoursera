@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Data Science toolbox initial repository
+Data Science toolbox initial repository.
